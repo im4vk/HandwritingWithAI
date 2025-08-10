@@ -1,0 +1,33 @@
+{
+  "total_tests": 15,
+  "passed_tests": 11,
+  "success_rate": 73.33333333333333,
+  "status": "\ud83d\udfe1 MODERATE - Some issues need attention",
+  "detailed_results": {
+    "imports": {
+      "basic_deps": true,
+      "modules": {
+        "robot_models": true,
+        "ai_models": true,
+        "trajectory_generation": true,
+        "motion_planning": true,
+        "data_processing": true,
+        "simulation": true,
+        "visualization": true
+      }
+    },
+    "instantiation": {
+      "VirtualRobotArm": false,
+      "SigmaLognormalGenerator": false,
+      "HandwritingGAIL": false,
+      "HandwritingEnvironment": true
+    },
+    "integration": {
+      "integration_workflow": false
+    },
+    "data_operations": {
+      "data_loading": true,
+      "data_saving": true
+    }
+  }
+}

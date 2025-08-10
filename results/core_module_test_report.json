@@ -1,0 +1,41 @@
+{
+  "total_tests": 26,
+  "passed_tests": 23,
+  "success_rate": 88.46153846153845,
+  "detailed_results": {
+    "basic_imports": true,
+    "module_imports": {
+      "robot_models": true,
+      "ai_models": true,
+      "trajectory_generation": true,
+      "motion_planning": true,
+      "data_processing": true,
+      "simulation": true,
+      "visualization": true
+    },
+    "class_imports": {
+      "VirtualRobotArm": true,
+      "HandwritingGAIL": true,
+      "SigmaLognormalGenerator": true,
+      "HandwritingEnvironment": true
+    },
+    "instantiation": {
+      "VirtualRobotArm": false,
+      "SigmaLognormalGenerator": false,
+      "HandwritingEnvironment": false
+    },
+    "directory_structure": {
+      "src/robot_models": true,
+      "src/ai_models": true,
+      "src/trajectory_generation": true,
+      "src/motion_planning": true,
+      "src/data_processing": true,
+      "src/simulation": true,
+      "src/visualization": true,
+      "data": true,
+      "config": true,
+      "results": true,
+      "tests": true
+    }
+  }
+}

@@ -1,0 +1,31 @@
+# Core AI/ML Dependencies (Python 3.13 compatible)
+torch>=1.13.0
+torchvision>=0.14.0
+numpy>=1.21.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Basic Physics and Rendering
+opencv-python>=4.6.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data Processing
+pandas>=1.4.0
+h5py>=3.7.0
+pillow>=9.0.0
+imageio>=2.19.0
+
+# Visualization
+plotly>=5.9.0
+
+# Utilities
+tqdm>=4.64.0
+omegaconf>=2.2.0
+
+# Development Tools
+pytest>=7.1.0
+
+# Additional Scientific Computing
+sympy>=1.10.0
+numba>=0.56.0

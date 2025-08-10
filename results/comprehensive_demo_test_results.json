@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "perfect": 3,
+    "partial": 2,
+    "failed": 0,
+    "total": 5,
+    "success_rate": 100.0,
+    "perfect_rate": 60.0,
+    "status": "\ud83d\udfe2 EXCELLENT - Minor warnings only"
+  },
+  "detailed_results": {
+    "demo_working.py": "partial",
+    "demo_simple.py": "perfect",
+    "demo_components.py": "partial",
+    "demo_end_to_end.py": "perfect",
+    "demo_fixed_trajectories.py": "perfect"
+  }
+}

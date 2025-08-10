@@ -1,0 +1,59 @@
+# Core AI/ML Dependencies
+torch>=1.13.0
+torchvision>=0.14.0
+numpy>=1.21.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Robotics Simulation
+mujoco>=2.3.0
+gym>=0.25.0
+stable-baselines3>=1.6.0
+pybullet>=3.2.0
+
+# Physics and Rendering
+diffvg>=0.1.0
+opencv-python>=4.6.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data Processing
+pandas>=1.4.0
+h5py>=3.7.0
+pillow>=9.0.0
+imageio>=2.19.0
+
+# Visualization and GUI
+plotly>=5.9.0
+dash>=2.5.0
+jupyter>=1.0.0
+ipywidgets>=7.7.0
+
+# Utilities
+tqdm>=4.64.0
+wandb>=0.12.0
+tensorboard>=2.9.0
+omegaconf>=2.2.0
+hydra-core>=1.2.0
+
+# Optional GPU Acceleration (uncomment if using)
+# isaacgym>=1.0.0  # Requires special installation
+# cupy>=11.0.0     # For CUDA acceleration
+
+# Development Tools
+pytest>=7.1.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.961
+
+# Motion Analysis
+kinemapy>=0.1.0  # Custom package for kinematic analysis
+transformations>=2022.9.26
+
+# Additional Scientific Computing
+sympy>=1.10.0
+numba>=0.56.0
+
+# For handwriting datasets
+fonttools>=4.33.0
+freetype-py>=2.3.0

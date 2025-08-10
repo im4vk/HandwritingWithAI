@@ -1,0 +1,97 @@
+{
+  "simple_words": [
+    "cat",
+    "dog",
+    "sun",
+    "moon",
+    "tree",
+    "house",
+    "book",
+    "pen",
+    "car",
+    "ball"
+  ],
+  
+  "pangrams": [
+    "The quick brown fox jumps over the lazy dog",
+    "Pack my box with five dozen liquor jugs",
+    "Waltz, bad nymph, for quick jigs vex",
+    "Sphinx of black quartz, judge my vow",
+    "The five boxing wizards jump quickly",
+    "Jackdaws love my big sphinx of quartz",
+    "Mr. Jock, TV quiz PhD., bags few lynx"
+  ],
+  
+  "technical_terms": [
+    "artificial intelligence",
+    "machine learning",
+    "neural networks",
+    "deep learning",
+    "computer vision",
+    "natural language processing",
+    "robotic handwriting",
+    "trajectory generation",
+    "motion planning",
+    "biomechanical modeling",
+    "kinematics",
+    "inverse dynamics",
+    "control systems",
+    "simulation",
+    "optimization"
+  ],
+  
+  "sentences": [
+    "Hello, my name is Robot.",
+    "I am learning to write like a human.",
+    "This is a test of my handwriting capabilities.",
+    "Robotics and AI are fascinating fields.",
+    "Precision and accuracy are important.",
+    "Smooth trajectories create beautiful writing.",
+    "Practice makes perfect handwriting.",
+    "Technology advances human capabilities.",
+    "Innovation drives scientific progress.",
+    "Collaboration between humans and robots."
+  ],
+  
+  "alphabets": [
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "abcdefghijklmnopqrstuvwxyz",
+    "0123456789"
+  ],
+  
+  "mathematical_expressions": [
+    "E = mc²",
+    "F = ma",
+    "a² + b² = c²",
+    "y = mx + b",
+    "π ≈ 3.14159",
+    "∑(x) = n·μ",
+    "∂f/∂x = df/dx",
+    "∫f(x)dx",
+    "lim(x→∞)",
+    "√(x² + y²)"
+  ],
+  
+  "names": [
+    "Alice",
+    "Bob",
+    "Charlie",
+    "Diana",
+    "Edward",
+    "Fiona",
+    "George",
+    "Helen",
+    "Isaac",
+    "Julia"
+  ],
+  
+  "quotes": [
+    "The future belongs to those who believe in the beauty of their dreams.",
+    "Innovation distinguishes between a leader and a follower.",
+    "The only way to do great work is to love what you do.",
+    "Technology is best when it brings people together.",
+    "The science of today is the technology of tomorrow.",
+    "Artificial intelligence is the new electricity.",
+    "Robots will not replace humans, they will complement them."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "num_demonstrations": 50,
+  "training_demos": 40,
+  "validation_demos": 10,
+  "state_dim": 15,
+  "action_dim": 4,
+  "skill_distribution": {
+    "expert": 35,
+    "intermediate": 10,
+    "novice": 5
+  }
+}

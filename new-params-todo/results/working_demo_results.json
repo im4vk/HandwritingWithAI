@@ -1,0 +1,12 @@
+{
+  "text": "HELLO AI",
+  "trajectory_points": 285,
+  "total_distance": 0.7227952285142707,
+  "improvement_percentage": 57.25579504239487,
+  "quality_metrics": {
+    "smoothness": 0.5156200181345038,
+    "speed_consistency": 0.952270400490254,
+    "overall_quality": 0.8226301395415859
+  },
+  "timestamp": 1754366283.387124
+}
